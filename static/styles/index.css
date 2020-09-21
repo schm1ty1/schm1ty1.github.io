@@ -8,6 +8,11 @@
   src: url('../fonts/JetBrainsMono-Bold.woff2');
 }
 
+@font-face {
+  font-family: JetBrainsMonoThin;
+  src: url('../fonts/JetBrainsMono-Light.woff2');
+}
+
 body {
   font-family: JetBrainsMono;
   font-size: 16px;

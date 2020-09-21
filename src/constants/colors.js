@@ -9,10 +9,14 @@ const colors = {
   darkBlue: '#458588',
   purple: '#d3869b',
   darkPurple: '#b16286',
+  aqua: '#8ec07c',
+  darkAqua: '#689d6a',
   orange: '#fe8019',
   darkOrange: '#d65d0e',
-  gray: '#928374',
+  gray: '#a89984',
+  darkGray: '#928374',
   bg: '#282828',
+  fg: '#ebdbb2',
 }
 
 export default colors

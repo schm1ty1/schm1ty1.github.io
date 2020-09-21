@@ -1,7 +1,7 @@
 {
-  "name": "gatsby-starter-hello-world",
+  "name": "schm1ty1.github.io",
   "private": true,
-  "description": "A simplified bare-bones starter for Gatsby",
+  "description": "GatsbyJS Portfolio / Blog site",
   "version": "0.1.0",
   "license": "0BSD",
   "scripts": {
